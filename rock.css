@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    font-size: 18px;
+    font-weight: 400;
+    
+}
+button {
+    padding: 10px;
+    border-radius: 10px;
+    width: 100px;
+}
+button:hover {
+    background-color: aquamarine;
+}
